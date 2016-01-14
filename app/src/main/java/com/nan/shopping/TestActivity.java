@@ -33,6 +33,7 @@ public class TestActivity extends BaseActivity {
 
         System.out.println("哈哈哈哈哈");
         System.out.println("哈哈哈哈哈");
+        System.out.print("峰哥");
 
     }
 
