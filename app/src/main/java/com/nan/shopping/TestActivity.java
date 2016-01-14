@@ -7,7 +7,6 @@ import android.widget.TextView;
 
 import com.nan.shopping.base.BaseActivity;
 import com.nan.shopping.bean.TestResult;
-import com.nan.shopping.util.UtilAnimation;
 
 import java.util.List;
 
@@ -35,6 +34,7 @@ public class TestActivity extends BaseActivity {
         System.out.println("哈哈哈哈哈");
         System.out.print("峰哥");
         System.out.print("hello world");
+        System.out.print("佳佳");
 
     }
 
