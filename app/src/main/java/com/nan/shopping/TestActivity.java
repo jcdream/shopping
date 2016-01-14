@@ -32,6 +32,7 @@ public class TestActivity extends BaseActivity {
         ButterKnife.bind(this);
 
         System.out.println("哈哈哈哈哈");
+        System.out.println("哈哈哈哈哈");
 
     }
 
