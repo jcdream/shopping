@@ -35,6 +35,7 @@ public class TestActivity extends BaseActivity {
         System.out.print("峰哥");
         System.out.print("hello world");
         System.out.print("佳佳");
+        System.out.println("test");
 
     }
 
